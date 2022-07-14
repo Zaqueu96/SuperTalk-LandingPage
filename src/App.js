@@ -16,7 +16,8 @@ export default function App() {
       <Navbar />
       <main>
         <HeroBanner />
-        {/* <Features /> //TODO verificar necessidade */}
+        <Features /> 
+        {/* //TODO verificar necessidade */}
         <Services />
         <Screenshots />
         <Pricing />

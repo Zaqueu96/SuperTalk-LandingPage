@@ -39,7 +39,7 @@ function Navbar({ links }) {
 Navbar.defaultProps = {
   links: [
     { title: "Home", href: "#home" },
-    { title: "Features", href: "#features" },
+    { title: "Como funciona?", href: "#features" },
     { title: "Services", href: "#services" },
     { title: "Preços", href: "#pricing" },
     { title: "Contact", href: "#contact" }

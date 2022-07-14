@@ -25,7 +25,7 @@ function Pricing() {
               <li>Somente realizar chamadas</li>
             </ul>
             <a href="#pricing" className="pricing-card__btn">
-              Assinar
+              Vamos lá
             </a>
           </div>
           <div className="pricing-card">

@@ -5,12 +5,9 @@ function Screenshots() {
     <section id="screenshots" style={{ overflow: "hidden" }}>
       <div className="container">
         <div className="section-text">
-          <div className="section-text__title">Applic Apps Screenshot</div>
+          <div className="section-text__title">Conhecendo melhor nosso App. </div>
           <div className="section-text__body">
-            Lorem ipsum dolor sit amet, consecadipiscing elit, sed do eiusmod
-            tempor incididunt ut ore et dolore magna aliqua. Quis ipsum
-            suspendisse gravida. Risus commodo viverra maecenasan lacus vel
-            facilisis.
+            Para propiciar a você usuário estamos investindo em usabilidade e simplicidade.
           </div>
         </div>
         <div className="section-carousel">
